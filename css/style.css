@@ -262,3 +262,67 @@ footer ul {
 .carousel-control-prev {
     filter: invert(100%);
 }
+
+.model {
+    background-image: url('../img/QQ.jpg') ;
+    position: absolute;
+    height:600px;
+    width: 1000px;
+    left: 1000px;
+    background-size:cover;
+}
+
+.sw1 {
+    font-size: 80px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.sw2 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.model2 {
+    background-image: url('../img/d.jpg') ;
+    position: absolute;
+    height:600px;
+    width: 1000px;
+    left: 1000px;
+    background-size:cover;
+}
+
+.sw12 {
+    font-size: 80px;
+    margin-top: 700px;
+    margin-left: 0px;
+}
+
+.sw22 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+
+.model3 {
+    background-image: url('../img/QQ.jpg') ;
+    position: absolute;
+    height:600px;
+    width: 1000px;
+    left: 1000px;
+    background-size:cover;
+}
+
+.sw13 {
+    font-size: 80px;
+    margin-top: 700px;
+    margin-left: 0px;
+}
+
+.sw23 {
+    font-size: 40px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
